@@ -1,0 +1,16 @@
+W >> forward
+S >> back
+D >> Right
+A >> Left
+X >> Up
+Z >> Down
+E >> Switch to autonomous mode 
+you can rotate by Mouse
+*******************************************
+
+Codes :
+
+-On ROV object you can put ( ROV,Player Motor and Player controller codes )
+-Creat Game Manager to switch between the autonomous and manual mode
+-On line Follower object you locate reference points and use ( way points code )
+-On Camera object you can put (FollowPlayer code)
